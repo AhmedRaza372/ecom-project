@@ -1,4 +1,4 @@
-<div className="EcommerceDesktop1" style={{width: 1440, height: 6197, background: 'white', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'inline-flex'}}>
+{/* <div className="EcommerceDesktop1" style={{width: 1440, height: 6197, background: 'white', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'inline-flex'}}>
   <div className="DesktopShopHeader1" style={{width: 1440, height: 852, position: 'relative', background: '#FAFAFA'}}>
     <div className="Background" style={{width: 1440, height: 747, left: 0, top: 0, position: 'absolute'}}>
       <img className="HeroCover2" style={{width: 1440, height: 747, left: 0, top: 0, position: 'absolute'}} src="https://via.placeholder.com/1440x747" />
@@ -684,4 +684,4 @@
       </div>
     </div>
   </div>
-</div>
+</div> */}
